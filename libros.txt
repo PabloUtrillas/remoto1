@@ -5,4 +5,10 @@ El nombre del viento
 American Gods
 Fundación
 El evangelio según Jesucristo
+<<<<<<< HEAD
 1Q84
+=======
+El señor de los anillos
+Cancion de hielo y fuego
+El ultimo deseo
+>>>>>>> c1b8eff3852c960c61f051efdceaa984f52306b0
